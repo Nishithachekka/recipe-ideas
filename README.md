@@ -24,7 +24,7 @@ npm run dev
 ```
 
 ## 🌐 Live Demo
-(Deploy link goes here)
+(https://recipeideas-app.vercel.app/)
 
 ## 🧠 Candidate Info
 **Candidate ID:** Naukri1025  
